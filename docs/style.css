@@ -3,4 +3,18 @@ body {
     font-size: xx-large;
     font-family: Georgia;
 }
-
+.picture1{
+    width: 200px;
+}
+.picture2{
+    width: 100px;
+}
+.picture3{
+    width: 300px;
+}
+.picture4{
+    width: 500px;
+}
+.picture5{
+    width: 200px
+}
